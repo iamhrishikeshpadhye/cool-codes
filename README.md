@@ -15,3 +15,18 @@ Although most of the IDEs support auto-indentation, this program performs the ta
 <br>
 A sweet C++ program that displays map of India on the terminal!
 <br>
+
+### Author
+
+ **Hrishikesh Padhye**
+
+* Twitter: [@Hrishi_says_so](https://twitter.com/Hrishi_says_so)
+* Github: [iamhrishikesh](https://github.com/Hrishikesh-Padhye)
+
+#### Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues](https://github.com/Hrishikesh-Padhye/cool-codes/issues) page.
+
+#### Support this project :)
+
+Give a ⭐️ if you like this!
